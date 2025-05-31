@@ -4,7 +4,7 @@ I have a standard poodle named Gilligan who's a pretty great dude. I started doi
 
 If you want more dog pics, take a look at https://instagram.com/gilthepoodle.
 
-<img width="1232" alt="A web app displaying a dog pedigree website and instructions on how to navigate the page." src="https://github.com/user-attachments/assets/a0726f16-c7ce-4d12-9580-690f4ec33d13" />
+<img width="1232" alt="A web site containing a dog pedigree as a tree structure and a sidebar with instructions on how to navigate the page" src="https://github.com/user-attachments/assets/90e1ac95-829a-4cc3-b6ea-9a46ee0a3b5a" />
 
 # Resources
 
